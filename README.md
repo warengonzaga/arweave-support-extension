@@ -15,11 +15,13 @@ Adding standalone Arweave native URL support for chromium based browsers without
 
 This is based on my other project [IPFS Support Extension](https://github.com/warengonzaga/ipfs-support-extension) which is work for IPFS native URL. I just modified it to work with Arweave native URL. I decided to make another separate extension for Arweave because I don't want to make the IPFS Support Extension bloated with other features. I think it's better to make it separate extension so it will be more maintainable and easy to manage. I believe it will give freedom to the users to choose what they want to install in their browser depending on what they are using as their decentralized storage.
 
+Shout out to [@codeninja819](https://github.com/warengonzaga/ipfs-support-extension/issues/8) for the suggestion to create this extension.
+
 ## 🤔 How It Works
 
-![demo](.github/img/demo.gif)
+<!-- ![demo](.github/img/demo.gif) -->
 
-It checks your tab if you input IPFS native url (e.g. `ipfs://`) and then it modifies it and convert into IPFS public gateway URL so you can view the IPFS contents in any normal browser. Nothing fancy technology here, I'm just a lazy developer who likes making things easier.
+It checks your tab if you input Arwaeve native url (e.g. `ar://`) and then it modifies it and convert into Arweave public gateway URL so you can view the Arweave contents in any normal browser. Nothing fancy technology here, I'm just a lazy developer who likes making things easier.
 
 Currently it depends on google search engine URL parameters and modify it accordingly.
 

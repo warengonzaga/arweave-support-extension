@@ -1,0 +1,31 @@
+{
+  "name": "arweave-support-extension",
+  "version": "0.1.0",
+  "description": "Adding standalone Arweave native URL support for chromium based browsers without installing Arweave in your machine.",
+  "scripts": {
+    "start": "parcel watch src/manifest.json --host localhost",
+    "build": "parcel build src/manifest.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warengonzaga/arweave-support-extension.git"
+  },
+  "keywords": [
+    "arweave",
+    "support",
+    "extension",
+    "native",
+    "url"
+  ],
+  "author": "Waren Gonzaga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/warengonzaga/arweave-support-extension/issues"
+  },
+  "homepage": "https://github.com/warengonzaga/arweave-support-extension#readme",
+  "devDependencies": {
+    "@parcel/config-webextension": "^2.8.2",
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {}
+}

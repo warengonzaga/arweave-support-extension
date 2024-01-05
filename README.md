@@ -1,4 +1,4 @@
-# Arweave Support (Extension) [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com) [![Mentioned in Awesome thirdweb](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/warengonzaga/awesome-thirdweb)
+# Arweave Support (Extension) [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com)
 
 > [!WARNING]
 > This is currently under developerment and not yet available in Chrome Web Store. You can download the source code and load it manually in your browser. Not tested use it at your own risk.

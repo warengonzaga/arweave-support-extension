@@ -1,0 +1,40 @@
+{
+  "name": "Arweave Support",
+  "description": "Adding standalone Arweave native URL support for chromium based browsers without installing Arweave in your machine.",
+  "version": "0.1.0",
+  "author": "Waren Gonzaga",
+  "icons": {
+    "16": "assets/icon16.png",
+    "19": "assets/icon19.png",
+    "32": "assets/icon32.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://google.com/search?q=ar%3A%2F%2F*",
+        "https://www.google.com/search?q=ar%3A%2F%2F*",
+        "https://bing.com/search?q=ar%3A%2F%2F*",
+        "https://www.bing.com/search?q=ar%3A%2F%2F*",
+        "https://duckduckgo.com/?q=ar%3A%2F%2F*",
+        "https://www.duckduckgo.com/?q=ar%3A%2F%2*",
+        "https://search.brave.com/search?q=ar%3A%2F%2*",
+        "https://www.search.brave.com/search?q=ar%3A%2F%2*",
+        "https://search.yahoo.com/search?p=ar%3A%2F%2*",
+        "https://www.search.yahoo.com/search?p=ar%3A%2F%2*"
+      ],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "action": {
+    "default_icon": "assets/icon128.png",
+    "default_title": "Arweave Support",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}

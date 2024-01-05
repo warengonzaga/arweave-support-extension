@@ -5,7 +5,7 @@ chrome.runtime.onMessage.addListener(function(message, sender, response) {
         const arweaveValue = urlParams.get("q");
         // hardcode for now but will support more public gateway
         const arweaveGateway = "https://arweave.net/";
-        const arweaveCID = arweaveValue.slice(7);
+        const arweaveCID = arweaveValue.slice(5); // remove ar://
         const redirectURL = arweaveGateway + arweaveCID;
         
         // redirect

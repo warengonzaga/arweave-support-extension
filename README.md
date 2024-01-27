@@ -1,8 +1,5 @@
 # Arweave Support (Extension) [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com)
 
-> [!WARNING]
-> This is currently under developerment and not yet available in Chrome Web Store. You can download the source code and load it manually in your browser. Not tested use it at your own risk.
-
 [![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://ossph.org) [![release](https://img.shields.io/github/release/warengonzaga/arweave-support-extension.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/blob/main/license) [![installs](https://img.shields.io/chrome-web-store/users/bgkgpjkailocmhjioiakogohkahhfbhp?style=flat-square&logo=Google%20Chrome&logoColor=%23fff&label=installs&labelColor=%23181717&color=%2301A661)](https://chrome.google.com/webstore/detail/arweave-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
 [![repo banner](.github/img/repo_banner.jpg)](https://chrome.google.com/webstore/detail/arweave-support/bgkgpjkailocmhjioiakogohkahhfbhp)

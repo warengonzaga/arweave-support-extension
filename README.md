@@ -24,7 +24,7 @@ Currently it depends on google search engine URL parameters and modify it accord
 
 ## ✨ Features
 
-- IPFS Gateway URL
+- Arweave Gateway URL
   - `arweave.net/` (Default)
 - Supported Browser
   - Google Chrome
@@ -41,15 +41,15 @@ Currently it depends on google search engine URL parameters and modify it accord
 
 ## 🐛 Issues
 
-If you're facing a problem in using the IPFS Support Extension please let me know by [creating an issue here](https://github.com/warengonzaga/arweave-support-extension/issues/new). I'm here to help you!
+If you're facing any problem in using this open source project please let us know by [creating an issue here](https://github.com/warengonzaga/arweave-support-extension/issues/new). We're here to help you!
 
 ## 📋 Code of Conduct
 
-Read the project's [code of conduct](./code_of_conduct.md).
+Read the open source project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
-The IPFS Support Extension is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
+This open source project is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
 ## 🍀 Sponsor
 
@@ -60,7 +60,7 @@ The IPFS Support Extension is licensed under [GNU General Public License v3](htt
 
 ## 📝 Author
 
-The Arweave Support Extension is developed and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/arweave-support-extension/graphs/contributors).
+This open source project is developed and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/arweave-support-extension/graphs/contributors).
 
 [![contributors](https://contrib.rocks/image?repo=warengonzaga/arweave-support-extension)](https://github.com/warengonzaga/arweave-support-extension/graphs/contributors)
 

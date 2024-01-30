@@ -39,6 +39,10 @@ Currently it depends on google search engine URL parameters and modify it accord
   - Brave Search
   - Yahoo
 
+## 🔎 Similar Projects
+
+- [Wayfinder](https://github.com/ar-io/wayfinder) by [AR.IO](https://github.com/ar-io) - It is a simple, open source, Google Chrome extension that intelligently routes users to optimal **AR.IO** gateways using the `ar:// protocol`, ensuring streamlined access to the permaweb on Arweave.
+
 ## 🐛 Issues
 
 If you're facing any problem in using this open source project please let us know by [creating an issue here](https://github.com/warengonzaga/arweave-support-extension/issues/new). We're here to help you!

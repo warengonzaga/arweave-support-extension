@@ -1,14 +1,25 @@
 # Arweave Support (Extension) [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com)
 
-[![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://ossph.org) [![release](https://img.shields.io/github/release/warengonzaga/arweave-support-extension.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/blob/main/license) [![installs](https://img.shields.io/chrome-web-store/users/ogohioihekalbamphccjangcldbemhgi?style=flat-square&logo=Google%20Chrome&logoColor=%23fff&label=installs&labelColor=%23181717&color=%2301A661)](https://chromewebstore.google.com/detail/arweave-support/ogohioihekalbamphccjangcldbemhgi)
+[![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://ossph.org) [![project of](https://img.shields.io/badge/project%20of-Web3%20Philippines-7b3fe4.svg?logo=github&longCache=true&labelColor=181717&style=flat-square)](https://github.com/web3philippines) [![release](https://img.shields.io/github/release/warengonzaga/arweave-support-extension.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/releases) [![star](https://img.shields.io/github/stars/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/blob/main/license) [![installs](https://img.shields.io/chrome-web-store/users/ogohioihekalbamphccjangcldbemhgi?style=flat-square&logo=Google%20Chrome&logoColor=%23fff&label=installs&labelColor=%23181717&color=%2301A661)](https://chromewebstore.google.com/detail/arweave-support/ogohioihekalbamphccjangcldbemhgi)
 
 [![repo banner](.github/img/repo_banner.jpg)](https://chrome.google.com/webstore/detail/arweave-support/bgkgpjkailocmhjioiakogohkahhfbhp)
 
-Adding standalone [Arweave](https://www.arweave.org/) native URL support for chromium based browsers without installing Arweave in your machine. 📦🌐🌊
+The Arweave Support Extension provides standalone support for [Arweave](https://www.arweave.org/) native URLs in chromium-based browsers. 📦🌐🌊
+
+## 📦 Installation
 
 [![download](.github/img/chrome_webstore.png)](https://chromewebstore.google.com/detail/arweave-support/ogohioihekalbamphccjangcldbemhgi)
 
-## 😅 Motivation
+### 📥 Manual Installation
+
+1. Download the latest version of the extension [here](https://github.com/warengonzaga/arweave-support-extension/releases).
+2. Extract the zip file.
+3. Open your chromium based browser and go to `chrome://extensions`.
+4. Enable the `Developer mode` in the upper right corner.
+5. Click the `Load unpacked` button and select the extracted folder.
+6. Enjoy! 🎉
+
+## 😅 Inspiration
 
 This is based on my other project [IPFS Support Extension](https://github.com/warengonzaga/ipfs-support-extension) which is work for IPFS native URL. I just modified it to work with Arweave native URL. I decided to make another separate extension for Arweave because I don't want to make the IPFS Support Extension bloated with other features. I think it's better to make it separate extension so it will be more maintainable and easy to manage. I believe it will give freedom to the users to choose what they want to install in their browser depending on what they are using as their decentralized storage.
 
@@ -55,11 +66,12 @@ Read the open source project's [code of conduct](./code_of_conduct.md).
 
 This open source project is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
-## 🍀 Sponsor
+## 🙏 Sponsor & Support
 
 > Love what I do? Send me some [love](https://github.com/sponsors/warengonzaga) or [coffee](https://buymeacoff.ee/warengonzaga)!? 💖☕
 >
 > Can't send love or coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
+>
 > Your support will help me to continue working on open-source projects like this. 🙏😇
 
 ## 📝 Author
